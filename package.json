@@ -28,7 +28,7 @@
     "url": "http://techbrij.com/"
   },
   "description": "An example of CRUD with MEAN Stack + Sails.js",
-  "keywords": [MEAN, CRUD, Sails],
+  "keywords": ["MEAN", "CRUD", "Sails"],
   "scripts": {
     "start": "node app.js",
     "debug": "node debug app.js"
